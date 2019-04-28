@@ -1,0 +1,7 @@
+F:\CIT 110\AllMyCameras\AllMyCameras\bin\Debug\AllMyCameras.exe.config
+F:\CIT 110\AllMyCameras\AllMyCameras\bin\Debug\AllMyCameras.exe
+F:\CIT 110\AllMyCameras\AllMyCameras\bin\Debug\AllMyCameras.pdb
+F:\CIT 110\AllMyCameras\AllMyCameras\obj\Debug\AllMyCameras.csprojAssemblyReference.cache
+F:\CIT 110\AllMyCameras\AllMyCameras\obj\Debug\AllMyCameras.csproj.CoreCompileInputs.cache
+F:\CIT 110\AllMyCameras\AllMyCameras\obj\Debug\AllMyCameras.exe
+F:\CIT 110\AllMyCameras\AllMyCameras\obj\Debug\AllMyCameras.pdb
